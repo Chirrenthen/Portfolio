@@ -1,0 +1,232 @@
+[
+  {
+    "name": "QR Code Generator",
+    "desc": "A user-friendly and responsive QR Code Generator that allows you to create QR codes effortlessly.",
+    "image": "Qr Generator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/QR-Generator/",
+      "code": "https://github.com/Chirrenthen/QR-Generator"
+    }
+  },
+  {
+    "name": "Job Portal Web App",
+    "desc": "Job finder. Built using Mern Stack.",
+    "image": "job portal",
+    "category": "mern",
+    "links": {
+      "view": "https://job-portal-a96b3.web.app/",
+      "code": "https://github.com/P-MUGILVANNAN/job-portal.git"
+    }
+  },
+  {
+    "name": "Hotstar-Clone",
+    "desc": "Built using HTML, CSS, JAVASCRIPT, REACT.JS",
+    "image": "hotstar",
+    "category": "react",
+    "links": {
+      "view": "https://hotstar-clone-62f80.web.app",
+      "code": "https://github.com/P-MUGILVANNAN/hotstar-clone.git"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Basic Portfolio website created by using HTML, CSS, JAVASCRIPT",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://mugilvannan-portfolio.netlify.app/",
+      "code": "https://github.com/P-MUGILVANNAN/New-Portfolio.git"
+    }
+  },
+  {
+    "name": "Netflix-Clone",
+    "desc": "Netflix Instagram clone built using HTML, CSS, JS, REACT.JS",
+    "image": "netflix",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/Netflix-clone.git",
+      "code": "https://github.com/P-MUGILVANNAN/Netflix-clone.git"
+    }
+  },
+  {
+    "name": "Velan Facility Service",
+    "desc": "VFS is an industry provide man powers to the clients, ready to use for business.",
+    "image": "vfs",
+    "category": "react",
+    "links": {
+      "view": "https://vfsdevlopmentphase.web.app",
+      "code": "https://github.com/P-MUGILVANNAN/velan-facility-service.git"
+    }
+  },
+  {
+    "name": "Blood Bank Management",
+    "desc": "A Python-based web application designed to streamline blood bank operations.",
+    "image": "blood bank",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/bloodbank.git",
+      "code": "https://github.com/P-MUGILVANNAN/bloodbank.git"
+    }
+  },
+  {
+    "name": "Pizza Hub",
+    "desc": "A dynamic web application created using HTML, CSS, and JavaScript for pizza lovers.",
+    "image": "pizza",
+    "category": "basicweb",
+    "links": {
+      "view": "https://pizza-shop-sage-ten.vercel.app/",
+      "code": "https://github.com/P-MUGILVANNAN/Pizza-Shop.git"
+    }
+  },
+  {
+    "name": "MERN Food Delivery",
+    "desc": "A full-stack food delivery web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+    "image": "food delivery",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/mern-food.git",
+      "code": "https://github.com/P-MUGILVANNAN/mern-food.git"
+    }
+  },
+  {
+    "name": "Burger Website",
+    "desc": "This dynamic website is built using HTML, CSS, JAVASCRIPT",
+    "image": "burger",
+    "category": "basicweb",
+    "links": {
+      "view": "https://p-mugilvannan.github.io/burger-house/",
+      "code": "https://github.com/P-MUGILVANNAN/burger-house.git"
+    }
+  },
+  {
+    "name": "Anime Website",
+    "desc": "A beautifully designed website showcasing anime content, built using HTML, CSS, and JavaScript.",
+    "image": "anime",
+    "category": "basicweb",
+    "links": {
+      "view": "https://p-mugilvannan.github.io/Anime-website/",
+      "code": "https://github.com/P-MUGILVANNAN/Anime-website.git"
+    }
+  },
+  {
+    "name": "Game Website",
+    "desc": "An interactive and visually appealing gaming-themed website built using HTML, CSS, and JavaScript.",
+    "image": "gamera",
+    "category": "basicweb",
+    "links": {
+      "view": "https://p-mugilvannan.github.io/gamera/",
+      "code": "https://github.com/P-MUGILVANNAN/gamera.git"
+    }
+  },
+  {
+    "name": "Healthcare Website",
+    "desc": "A responsive and user-friendly website designed for the healthcare industry, built using HTML, CSS, and JavaScript.",
+    "image": "healthcare",
+    "category": "basicweb",
+    "links": {
+      "view": "https://p-mugilvannan.github.io/health-care/",
+      "code": "https://github.com/P-MUGILVANNAN/health-care.git"
+    }
+  },
+  {
+    "name": "Employee Management System MERN",
+    "desc": "A full-stack application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to manage employee records efficiently. ",
+    "image": "employee",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/mern-employee.git",
+      "code": "https://github.com/P-MUGILVANNAN/mern-employee.git"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "A full-stack e-commerce web application inspired by Flipkart, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+    "image": "flipkart",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/flipkart-mern.git",
+      "code": "https://github.com/P-MUGILVANNAN/flipkart-mern.git"
+    }
+  },
+  {
+    "name": "Travel App",
+    "desc": "A React-based web application designed for travel enthusiasts to explore destinations, plan trips, and view detailed information about popular locations.",
+    "image": "travel",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/react-travel.git",
+      "code": "https://github.com/P-MUGILVANNAN/react-travel.git"
+    }
+  },
+  {
+    "name": "School Management System MERN",
+    "desc": "A comprehensive full-stack application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to manage school-related operations.",
+    "image": "school",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/school-management-mern.git",
+      "code": "https://github.com/P-MUGILVANNAN/school-management-mern.git"
+    }
+  },
+  {
+    "name": "MERN Travely",
+    "desc": "A full-stack travel platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) to help users plan and book their trips.",
+    "image": "travelly",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/mern-travely.git",
+      "code": "https://github.com/P-MUGILVANNAN/mern-travely.git"
+    }
+  },
+  {
+    "name": "MERN Home Rent",
+    "desc": "A full-stack application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) for renting homes.",
+    "image": "home",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/mern-home.git",
+      "code": "https://github.com/P-MUGILVANNAN/mern-home.git"
+    }
+  },
+  {
+    "name": "MERN Photography",
+    "desc": "A full-stack photography platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for photographers to showcase their manage bookings.",
+    "image": "photography",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/photography-mern.git",
+      "code": "https://github.com/P-MUGILVANNAN/photography-mern.git"
+    }
+  },
+  {
+    "name": "Jarvis ChatBot",
+    "desc": "Simple chatbot using Javascript",
+    "image": "jarvis",
+    "category": "basicweb",
+    "links": {
+      "view": "https://p-mugilvannan.github.io/Jarvis/",
+      "code": "https://github.com/P-MUGILVANNAN/Jarvis.git"
+    }
+  },
+  {
+    "name": "Django Ecommerce",
+    "desc": "An e-commerce web application built using Django, allowing users to browse products, add items to their cart, and complete secure checkouts. ",
+    "image": "django ecom",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/django-ecommerce.git",
+      "code": "https://github.com/P-MUGILVANNAN/django-ecommerce.git"
+    }
+  },
+  {
+    "name": "Food App Angular",
+    "desc": "A food delivery web application built using Angular, allowing users to browse menus, customize their orders, and place food delivery requests.",
+    "image": "foodmine",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/P-MUGILVANNAN/food-angular.git",
+      "code": "https://github.com/P-MUGILVANNAN/food-angular.git"
+    }
+  }
+]
