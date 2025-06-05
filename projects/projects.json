@@ -10,13 +10,23 @@
     }
   },
   {
-    "name": "Digital Fingerprint",
-    "desc": "An advanced application that automatically retrieves network and device details of your computer or mobile. It also generates and downloads a receipt of the information for your records.",
-    "image": "digital fingerprint",
-    "category": "basicweb",
+    "name": "PortSync",
+    "desc": "A dual-server ESP32 chat system enabling password-protected, real-time messaging across two web ports with shared chat history and responsive UI",
+    "image": "portsync",
+    "category": "ccpp",
     "links": {
-      "view": "https://chirrenthen.github.io/Digital-Fingerprint/",
-      "code": "https://github.com/Chirrenthen/Digital-Fingerprint"
+      "view": "https://github.com/Chirrenthen/PortSync/",
+      "code": "https://github.com/Chirrenthen/PortSync"
+    }
+  },
+  {
+    "name": "AtmoGuard AIO",
+    "desc": "An advanced application that automatically retrieves network and device details of your computer or mobile. It also generates and downloads a receipt of the information for your records.",
+    "image": "atmoguard",
+    "category": "ccpp",
+    "links": {
+      "view": "https://github.com/Chirrenthen/AtmoGuard-AIO/",
+      "code": "https://github.com/Chirrenthen/AtmoGuard-AIO"
     }
   },
   {
@@ -220,13 +230,13 @@
     }
   },
   {
-    "name": "Weather Application",
-    "desc": "A weather application that provides real-time weather updates and forecasts.",
-    "image": "weather app",
+    "name": "WeatherSense",
+    "desc": "Get accurate, real-time weather data for any location around the globe.",
+    "image": "weathersense",
     "category": "basicweb",
     "links": {
-      "view": "https://chirrenthen.github.io/Weather-Application/",
-      "code": "https://github.com/Chirrenthen/Weather-Application"
+      "view": "https://chirrenthen.github.io/WeatherSense/",
+      "code": "https://github.com/Chirrenthen/WeatherSense"
     }
   },
   {
