@@ -1,5 +1,25 @@
 [
   {
+    "name": "Portfolio-Template",
+    "desc": "✨ A minimal OS-Style portfolio template for developers",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen13.netlify.app",
+      "code": "https://github.com/Chirrenthen/Portfolio-Template"
+    }
+  },
+  {
+    "name": "WeatherSense",
+    "desc": "Get accurate, real-time weather data for any location around the globe.",
+    "image": "weathersense",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/WeatherSense/",
+      "code": "https://github.com/Chirrenthen/WeatherSense"
+    }
+  },
+  {
     "name": "PixlQR",
     "desc": "A fast, responsive, and user-friendly QR code generator with a clean UI. Instantly generate QR codes for text or URLs—perfect for personal or professional use. ",
     "image": "pixlqr",
@@ -7,6 +27,16 @@
     "links": {
       "view": "https://chirrenthen.github.io/PixlQR/",
       "code": "https://github.com/Chirrenthen/PixlQR"
+    }
+  },
+  {
+    "name": "ShelfSync",
+    "desc": "An advanced library management system that allows users to manage books and members.",
+    "image": "shelfsync",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Chirrenthen/ShelfSync",
+      "code": "https://github.com/Chirrenthen/ShelfSync"
     }
   },
   {
@@ -230,16 +260,6 @@
     }
   },
   {
-    "name": "WeatherSense",
-    "desc": "Get accurate, real-time weather data for any location around the globe.",
-    "image": "weathersense",
-    "category": "basicweb",
-    "links": {
-      "view": "https://chirrenthen.github.io/WeatherSense/",
-      "code": "https://github.com/Chirrenthen/WeatherSense"
-    }
-  },
-  {
     "name": "User Location",
     "desc": "A user-friendly application that allows users to find their current location using GPS.",
     "image": "user location",
@@ -307,26 +327,6 @@
     "links": {
       "view": "https://chirrenthen.github.io/Calculator/",
       "code": "https://github.com/Chirrenthen/Calculator"
-    }
-  },
-  {
-    "name": "Library Management System",
-    "desc": "An advanced library management system that allows users to manage books and members.",
-    "image": "library management",
-    "category": "python",
-    "links": {
-      "view": "https://github.com/Chirrenthen/Library-Management-System",
-      "code": "https://github.com/Chirrenthen/Library-Management-System"
-    }
-  },
-  {
-    "name": "Portfolio-Template",
-    "desc": "✨ A minimal OS-Style portfolio template for developers",
-    "image": "portfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "https://chirrenthen13.netlify.app",
-      "code": "https://github.com/Chirrenthen/Portfolio-Template"
     }
   }
 ]
