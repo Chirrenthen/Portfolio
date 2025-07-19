@@ -174,7 +174,7 @@ document.onkeydown = function (e) {
 };
 
 // ──────────────── ScrollReveal for Sections ────────────────
-const srtop = ScrollReveal({ origin: 'top', distance: '80px', duration: 1000, reset: true });
+const srtop = ScrollReveal({ origin: 'top', distance: '90px', duration: 1000, reset: true });
 srtop.reveal('.home .content h3', { delay: 200 });
 srtop.reveal('.home .content p',  { delay: 200 });
 srtop.reveal('.home .content .btn',{ delay: 200 });

@@ -302,18 +302,13 @@ header .navbar ul li a:hover {
 .social-icons a.github:hover {
   background-color: #0e0e0e;
 }
-.social-icons a.twitter:hover {
+.social-icons a.linkedin:hover {
   background-color: #00aced;
 }
 .social-icons a.patreon:hover {
   background-color: #000000;
 }
-.social-icons a.dev:hover {
-  background-color: #070707;
-}
-.social-icons a.instagram:hover {
-  background-color: #ee00da;
-}
+
 /* social icons end */
 
 /* hero media queries starts*/

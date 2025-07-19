@@ -1,5 +1,15 @@
 [
   {
+    "name": "Sound Pilot",
+    "desc": "An intuitive and a scalable project for a DIY music playback system🎧",
+    "image": "soundpilot",
+    "category": "ccpp",
+    "links": {
+      "view": "https://github.com/Chirrenthen/Sound-Pilot",
+      "code": "https://github.com/Chirrenthen/Sound-Pilot"
+    }
+  },
+  {
     "name": "Portfolio-Template",
     "desc": "✨ A minimal OS-Style portfolio template for developers",
     "image": "portfolio",
