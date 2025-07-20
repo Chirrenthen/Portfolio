@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
 
@@ -83,6 +84,34 @@ section {
   min-height: auto;
   padding: 2rem 9%;
 }
+
+.header-decoration {
+  height: 0.3rem;
+  width: 10rem;
+  background: linear-gradient(to right, #08e7fc, #01b3f9);
+  margin: 1rem auto;
+  border-radius: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.header-decoration::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.8), transparent);
+  animation: shine 3s infinite;
+}
+
+@keyframes shine {
+  100% {
+    left: 100%;
+  }
+}
+
 .heading {
   font-size: 3.5rem;
   color: rgb(32, 32, 32);
