@@ -33,15 +33,21 @@
 </div>
 <!-- music player -->
 <div class="play" style="display: none;">
-  <iframe 
-    width="360" height="200"
-    src="https://www.youtube.com/embed/n9Y2Eb4BaSg?autoplay=1&mute=0&controls=0&loop=1&playlist=n9Y2Eb4BaSg"
-    title="Night at Work | Instrumental Chill Music Mix"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-  ></iframe>
+  <audio id="audioPlayer" controls loop></audio>
+    <source src="./Music.mp3" type="audio/mpeg">
+  </audio>
 </div>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var audio = document.getElementById('audioPlayer');
+    audio.volume = 0.5;
+    // Try to play after a user gesture
+    document.body.addEventListener('click', function playAudioOnce() {
+      audio.play();
+      document.body.removeEventListener('click', playAudioOnce);
+    });
+  });
+</script>
 
 <!-- navbar starts -->
 <header>
